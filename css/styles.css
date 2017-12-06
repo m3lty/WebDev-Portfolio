@@ -1,0 +1,26 @@
+.logo {
+	height: 120px;
+	width: 120px;
+	border-radius: 100%;
+	float: left;
+}
+
+
+.full-image {
+	float: left;
+	max-width: 100%;
+		
+}	
+.main-img {
+	padding: 20px 0 20px 0;
+}
+		
+.card-img-top {
+	max-width: 100%;
+	max-height: 100%;
+}
+.header-col {
+	width: 100%;
+	border-bottom: 5px solid #000;
+
+}
